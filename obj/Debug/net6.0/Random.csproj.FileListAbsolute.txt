@@ -1,0 +1,15 @@
+/home/bruh/school11A/Asztali/Random/bin/Debug/net6.0/Random
+/home/bruh/school11A/Asztali/Random/bin/Debug/net6.0/Random.deps.json
+/home/bruh/school11A/Asztali/Random/bin/Debug/net6.0/Random.runtimeconfig.json
+/home/bruh/school11A/Asztali/Random/bin/Debug/net6.0/Random.dll
+/home/bruh/school11A/Asztali/Random/bin/Debug/net6.0/Random.pdb
+/home/bruh/school11A/Asztali/Random/obj/Debug/net6.0/Random.csproj.AssemblyReference.cache
+/home/bruh/school11A/Asztali/Random/obj/Debug/net6.0/Random.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruh/school11A/Asztali/Random/obj/Debug/net6.0/Random.AssemblyInfoInputs.cache
+/home/bruh/school11A/Asztali/Random/obj/Debug/net6.0/Random.AssemblyInfo.cs
+/home/bruh/school11A/Asztali/Random/obj/Debug/net6.0/Random.csproj.CoreCompileInputs.cache
+/home/bruh/school11A/Asztali/Random/obj/Debug/net6.0/Random.dll
+/home/bruh/school11A/Asztali/Random/obj/Debug/net6.0/refint/Random.dll
+/home/bruh/school11A/Asztali/Random/obj/Debug/net6.0/Random.pdb
+/home/bruh/school11A/Asztali/Random/obj/Debug/net6.0/Random.genruntimeconfig.cache
+/home/bruh/school11A/Asztali/Random/obj/Debug/net6.0/ref/Random.dll

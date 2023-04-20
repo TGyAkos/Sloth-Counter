@@ -1,0 +1,15 @@
+/home/bruh/school11A/Asztali/Lajhar/bin/Debug/net6.0/Lajhar
+/home/bruh/school11A/Asztali/Lajhar/bin/Debug/net6.0/Lajhar.deps.json
+/home/bruh/school11A/Asztali/Lajhar/bin/Debug/net6.0/Lajhar.runtimeconfig.json
+/home/bruh/school11A/Asztali/Lajhar/bin/Debug/net6.0/Lajhar.dll
+/home/bruh/school11A/Asztali/Lajhar/bin/Debug/net6.0/Lajhar.pdb
+/home/bruh/school11A/Asztali/Lajhar/obj/Debug/net6.0/Lajhar.csproj.AssemblyReference.cache
+/home/bruh/school11A/Asztali/Lajhar/obj/Debug/net6.0/Lajhar.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruh/school11A/Asztali/Lajhar/obj/Debug/net6.0/Lajhar.AssemblyInfoInputs.cache
+/home/bruh/school11A/Asztali/Lajhar/obj/Debug/net6.0/Lajhar.AssemblyInfo.cs
+/home/bruh/school11A/Asztali/Lajhar/obj/Debug/net6.0/Lajhar.csproj.CoreCompileInputs.cache
+/home/bruh/school11A/Asztali/Lajhar/obj/Debug/net6.0/Lajhar.dll
+/home/bruh/school11A/Asztali/Lajhar/obj/Debug/net6.0/refint/Lajhar.dll
+/home/bruh/school11A/Asztali/Lajhar/obj/Debug/net6.0/Lajhar.pdb
+/home/bruh/school11A/Asztali/Lajhar/obj/Debug/net6.0/Lajhar.genruntimeconfig.cache
+/home/bruh/school11A/Asztali/Lajhar/obj/Debug/net6.0/ref/Lajhar.dll
